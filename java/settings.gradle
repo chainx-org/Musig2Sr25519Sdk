@@ -1,0 +1,2 @@
+rootProject.name = "Musig2 Sr25519 Demo"
+include ':app'
