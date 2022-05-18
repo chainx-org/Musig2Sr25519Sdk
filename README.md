@@ -4,9 +4,9 @@ This repository provides some musig2 signature-related functions, mainly for sub
 
 # iOS
 
-[Doc](): Introduced musig2 related Api and gave examples.
+[Doc](swift/README.md): Introduced musig2 related Api and gave examples.
 
-[Example](): An example of constructing Musig2 signature is shown. 
+[Example](swift/Musig2Sr25519Demo/Musig2Sr25519Demo/ViewController.swift): An example of constructing Musig2 signature is shown. 
 
 # Android
 
